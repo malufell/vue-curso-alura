@@ -1,8 +1,6 @@
-# alurapic
+## Vue.js: construindo Single Page Applications
 
-> A Vue.js project
-
-## Build Setup
+### Build Setup
 
 ``` bash
 # install dependencies
